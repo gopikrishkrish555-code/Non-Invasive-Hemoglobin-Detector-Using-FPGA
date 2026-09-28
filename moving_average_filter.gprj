@@ -1,0 +1,15 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW2AR-18C" pn="GW2AR-LV18QN88PC7/I6">gw2ar18c-012</Device>
+    <FileList>
+        <File path="src/biometric_calculator.v" type="file.verilog" enable="1"/>
+        <File path="src/i2c_master_max30102.v" type="file.verilog" enable="1"/>
+        <File path="src/moving_average_filter.v" type="file.verilog" enable="1"/>
+        <File path="src/ssd1306_oled.v" type="file.verilog" enable="1"/>
+        <File path="src/top.v" type="file.verilog" enable="1"/>
+        <File path="src/pinss.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>

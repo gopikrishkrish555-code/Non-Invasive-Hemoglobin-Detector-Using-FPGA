@@ -1,0 +1,16 @@
+-d C:\Gowin\Gowin_V1.9.12.03_x64\IDE\bin\Documents\moving_average_filter\impl\gwsynthesis\moving_average_filter.vg
+-p GW2AR-18C-QFN88P-7
+-pn GW2AR-LV18QN88PC7/I6
+-cst C:\Gowin\Gowin_V1.9.12.03_x64\IDE\bin\Documents\moving_average_filter\src\pinss.cst
+-cfg C:\Gowin\Gowin_V1.9.12.03_x64\IDE\bin\Documents\moving_average_filter\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-place_option 0
+-route_option 0
+-clock_route_order 0
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000
