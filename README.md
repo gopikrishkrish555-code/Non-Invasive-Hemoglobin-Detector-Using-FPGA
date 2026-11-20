@@ -59,3 +59,10 @@ A hardware-accelerated, air-gapped biomedical monitoring system designed and syn
 5. Run Place & Route with pin mappings assigned in src/pinss.cst.
 6. Open Programmer, connect your Tang Nano 20K over USB, and program the generated .fs bitstream.
 '''
+<img width="1600" height="1200" alt="WhatsApp Image 2026-11-20 at 11 49 20 AM (2)" src="https://github.com/user-attachments/assets/8a2bbf7f-99b9-498f-bdab-75a3e4ce3157" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-11-20 at 11 49 20 AM (1)" src="https://github.com/user-attachments/assets/b4da566f-dbf8-45e5-a20b-f87fed03f6cd" />
+
+
+
+
+
